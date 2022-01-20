@@ -1,0 +1,19 @@
+div{
+    width: 100%;
+    background-color: rgb(80, 80, 233);
+    text-align: center;
+}
+
+body{
+    background-size: cover;
+}
+
+.copyright_footer{
+    position: fixed;
+    color: brown;
+    bottom: 0;
+    width: 100%;
+    background-color: burlywood;
+    line-height: 3;
+    text-align: center;
+}
